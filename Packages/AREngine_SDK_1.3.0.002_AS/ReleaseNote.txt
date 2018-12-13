@@ -1,0 +1,9 @@
+id=com.huawei.hiar
+name=HUAWEI AR Engine
+version=1.3.0
+AndroidVersion.ApiLevel=14
+release_date=2018-11-19
+description=HUAWEI AR Engine is a platform for building augmented reality apps on Android smartphones
+release_notes= 
+v1.3.0 add hand gesture recognition and hand skeleton tracking, Human body pose recognition and human body skeleton tracking
+v0.9.0 the first release version
